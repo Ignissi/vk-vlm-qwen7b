@@ -1,0 +1,15 @@
+{
+  "base_accuracy": 0.7890625,
+  "adapted_accuracy": 0.796875,
+  "accuracy_delta": 0.0078125,
+  "train_size": 512,
+  "eval_size": 128,
+  "train_metrics": {
+    "train_runtime": 206.5726,
+    "train_samples_per_second": 4.957,
+    "train_steps_per_second": 1.239,
+    "total_flos": 1.955856075793613e+16,
+    "train_loss": 0.12325572373811156,
+    "epoch": 2.0
+  }
+}

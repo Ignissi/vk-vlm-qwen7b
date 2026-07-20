@@ -1,0 +1,15 @@
+{
+  "model_id": "Qwen/Qwen2.5-VL-7B-Instruct",
+  "dataset_id": "deepvk/MMBench-ru",
+  "dataset_split": "dev",
+  "train_size": 512,
+  "eval_size": 128,
+  "epochs": 2.0,
+  "seed": 42,
+  "learning_rate": 5e-05,
+  "lora_rank": 8,
+  "lora_alpha": 16,
+  "gradient_accumulation_steps": 4,
+  "min_pixels": 200704,
+  "max_pixels": 401408
+}

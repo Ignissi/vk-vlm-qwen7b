@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.cache/
+checkpoints/
+
+.venv/
+run2/
+experiments/
+checkpoints/
+REPORT.backup.md
+__pycache__/
+*.pyc
