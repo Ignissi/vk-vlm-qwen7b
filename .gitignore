@@ -11,3 +11,12 @@ checkpoints/
 REPORT.backup.md
 __pycache__/
 *.pyc
+
+.venv/
+run2/
+experiments/
+checkpoints/
+README.backup.md
+REPORT.backup.md
+__pycache__/
+*.pyc
